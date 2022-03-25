@@ -36,5 +36,6 @@ I'm Agung, a frontend engineer 👨‍💻 working since 2016 🚀
 
 ## GitHub Stats ⚡
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=agungvr&show_icons=true&count_private=true&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungvr&layout=compact&count_private=true&theme=dracula" /> 
+<img width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=agungvr&show_icons=true&count_private=true&theme=dracula" />
+
+<img width=335 src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungvr&layout=compact&count_private=true&theme=dracula" /> 
